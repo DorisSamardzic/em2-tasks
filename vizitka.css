@@ -6,7 +6,7 @@ body {
     backface-visibility: hidden;
     position: absolute;
     transform-origin: 50% 50% 0px;
-    transition: transition 3s;    
+    transition: transform 3s;   
 }
 
 .flip-frontSide {    
