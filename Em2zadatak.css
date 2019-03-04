@@ -22,7 +22,8 @@
 
 #overlapRectangle {
     background-color: white;
-    border: 0.2px solid rgba(0, 0, 0, 0.4);
+    border-top: 0.6px solid black;
+    border: 0.6px solid grey;
     border-radius: 10px;
     height: 264px;
     width: 362px;
